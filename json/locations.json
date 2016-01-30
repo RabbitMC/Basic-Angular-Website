@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "A Location",
+    "street": "Zeil 42",
+    "zip-code": "60480",
+    "city":"Frankfurt"
+  },
+  {
+    "id": 2,
+    "name": "B Location",
+    "street": "Berger Str. 42",
+    "zip-code": "60480",
+    "city":"Frankfurt"
+  },
+  {
+    "id": 3,
+    "name": "C Location",
+    "street": "Schweizer Str. 42",
+    "zip-code": "60480",
+    "city":"Frankfurt"
+  }
+]
